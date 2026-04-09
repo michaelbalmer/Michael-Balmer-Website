@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://michael-balmer.com/sitemap.xml
