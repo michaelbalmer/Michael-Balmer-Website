@@ -24,29 +24,50 @@
   });
 })();
 
-// Contact form – simple client-side feedback
+// Contact form
 (function () {
   const form = document.getElementById('contact-form');
   const success = document.getElementById('form-success');
 
   if (!form) return;
 
-  form.addEventListener('submit', function (e) {
+  form.addEventListener('submit', async function (e) {
     e.preventDefault();
 
     const btn = form.querySelector('button[type="submit"]');
     btn.disabled = true;
     btn.textContent = 'Wird gesendet…';
 
-    // Simulate send (replace with real backend / Formspree / etc.)
-    setTimeout(function () {
-      form.reset();
+    const data = {
+      name: document.getElementById('name').value,
+      email: document.getElementById('email').value,
+      website: document.getElementById('website').value,
+      message: document.getElementById('message').value,
+    };
+
+    try {
+      const res = await fetch('https://contact-form.michael-balmer19.workers.dev', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data),
+      });
+
+      const json = await res.json();
+
+      if (json.success) {
+        form.reset();
+        if (success) {
+          success.style.display = 'block';
+          success.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }
+      } else {
+        alert('Fehler beim Senden. Bitte versuchen Sie es erneut.');
+      }
+    } catch (err) {
+      alert('Fehler beim Senden. Bitte versuchen Sie es erneut.');
+    } finally {
       btn.disabled = false;
       btn.textContent = 'Nachricht senden';
-      if (success) {
-        success.style.display = 'block';
-        success.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-      }
-    }, 900);
+    }
   });
 })();
