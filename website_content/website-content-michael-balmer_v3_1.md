@@ -54,7 +54,7 @@ CTA: Jetzt anfragen → /kontakt
 ---
 
 **Paket 2 – SEO Monitor**
-CHF 750 / Monat · Mindestlaufzeit 6 Monate · danach monatlich kündbar (30 Tage Frist)
+CHF 950 / Monat · Mindestlaufzeit 6 Monate · danach monatlich kündbar (30 Tage Frist)
 
 Sie wissen wo Sie stehen – jeden Monat. Ich überwache Ihre Rankings, analysiere die Entwicklung und liefere konkrete Handlungsempfehlungen. Ideal für KMUs mit internem Team, das SEO-Massnahmen selbst umsetzt und einen erfahrenen Sparringspartner sucht.
 
@@ -69,7 +69,7 @@ CTA: Jetzt anfragen → /kontakt
 ---
 
 **Paket 3 – SEO Growth**
-CHF 2'200 / Monat · Mindestlaufzeit 6 Monate · danach monatlich kündbar (30 Tage Frist)
+CHF 1'900 / Monat · Mindestlaufzeit 6 Monate · danach monatlich kündbar (30 Tage Frist)
 
 Alles aus SEO Monitor – plus AI-gestützter Content, direkte Umsetzung aller On-Page-Optimierungen auf Ihrer Website und ein quartalsweiser Strategie-Call. Sie kümmern sich um Ihr Kerngeschäft, ich kümmere mich um Ihre Sichtbarkeit.
 
