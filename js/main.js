@@ -24,6 +24,16 @@
   });
 })();
 
+// FAQ accordion
+(function () {
+  document.querySelectorAll('.faq-item').forEach(function (item) {
+    item.querySelector('.faq-question').addEventListener('click', function () {
+      const isOpen = item.classList.toggle('open');
+      this.setAttribute('aria-expanded', String(isOpen));
+    });
+  });
+})();
+
 // Contact form
 (function () {
   const form = document.getElementById('contact-form');
