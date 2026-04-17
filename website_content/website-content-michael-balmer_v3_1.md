@@ -1,5 +1,5 @@
 # Website Content – michael-balmer.com
-*Version 4 – WordPress-Referenzen entfernt, CMS-neutral formuliert*
+*Version 5 – Neupositionierung auf Schweizer KMUs*
 
 ## Struktur
 
@@ -11,16 +11,16 @@ Zusätzlich: Impressum, Datenschutz (Placeholder)
 ## Page 1 – Home
 
 **Hero Headline:**
-SEO für Schweizer Praxen und Gesundheitsbetriebe – mehr Patienten über Google
+SEO für Schweizer KMUs – mehr Kunden über Google
 
 **Subtext:**
-Ich helfe Schweizer Praxen, Kliniken und Gesundheitsbetriebe, online gefunden zu werden – von Patienten, die genau jetzt nach Ihnen suchen. Spezialisiert. Messbar. Ohne Agentur-Overhead.
+Ich helfe Schweizer KMUs, online gefunden zu werden – von Kunden, die genau jetzt nach Ihnen suchen. Spezialisiert. Messbar. Ohne Agentur-Overhead.
 
 **CTA Button:**
 Kostenloses Erstgespräch anfragen → /kontakt
 
 **3 USPs:**
-- Fokus auf den Schweizer Gesundheitsmarkt
+- Fokus auf den Schweizer Markt
 - 5+ Jahre Erfahrung in SEO, inkl. Agenturhintergrund
 - Klare Pakete, transparente Preise – inklusive Umsetzung auf Ihrer Website
 
@@ -56,7 +56,7 @@ CTA: Jetzt anfragen → /kontakt
 **Paket 2 – SEO Monitor**
 CHF 750 / Monat · Mindestlaufzeit 6 Monate · danach monatlich kündbar (30 Tage Frist)
 
-Sie wissen wo Sie stehen – jeden Monat. Ich überwache Ihre Rankings, analysiere die Entwicklung und liefere konkrete Handlungsempfehlungen. Ideal für Praxen mit internem Team, das SEO-Massnahmen selbst umsetzt und einen erfahrenen Sparringspartner sucht.
+Sie wissen wo Sie stehen – jeden Monat. Ich überwache Ihre Rankings, analysiere die Entwicklung und liefere konkrete Handlungsempfehlungen. Ideal für KMUs mit internem Team, das SEO-Massnahmen selbst umsetzt und einen erfahrenen Sparringspartner sucht.
 
 Enthält:
 - Monatliches Ranking-Tracking
@@ -71,7 +71,7 @@ CTA: Jetzt anfragen → /kontakt
 **Paket 3 – SEO Growth**
 CHF 2'200 / Monat · Mindestlaufzeit 6 Monate · danach monatlich kündbar (30 Tage Frist)
 
-Alles aus SEO Monitor – plus AI-gestützter Content, direkte Umsetzung aller On-Page-Optimierungen auf Ihrer Website und ein quartalsweiser Strategie-Call. Sie kümmern sich um Ihre Patienten, ich kümmere mich um Ihre Sichtbarkeit.
+Alles aus SEO Monitor – plus AI-gestützter Content, direkte Umsetzung aller On-Page-Optimierungen auf Ihrer Website und ein quartalsweiser Strategie-Call. Sie kümmern sich um Ihr Kerngeschäft, ich kümmere mich um Ihre Sichtbarkeit.
 
 Enthält:
 - Alles aus SEO Monitor
@@ -96,7 +96,7 @@ Nicht sicher wo Sie stehen? Starten Sie mit dem SEO Audit – danach empfehle ic
 Michael Balmer
 
 **Fliesstext:**
-Ich bin SEO-Spezialist mit über 5 Jahren Erfahrung – unter anderem in einer Agentur, wo ich Projekte aus verschiedenen Branchen betreut habe. Heute fokussiere ich mich auf Schweizer Praxen, Kliniken und Gesundheitsbetriebe: eine Branche, in der lokale Sichtbarkeit direkt über neue Patienten entscheidet.
+Ich bin SEO-Spezialist mit über 5 Jahren Erfahrung – unter anderem in einer Agentur, wo ich Projekte aus verschiedenen Branchen betreut habe. Heute fokussiere ich mich auf Schweizer KMUs: Unternehmen, für die lokale Sichtbarkeit direkt über neue Kunden entscheidet.
 
 Ich kenne den Schweizer Markt und weiss, was es braucht, um in Suchmaschinen – und zunehmend auch in KI-Tools wie ChatGPT oder Perplexity – gefunden zu werden.
 
